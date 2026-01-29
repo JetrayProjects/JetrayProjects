@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi my name is Sahil<br><br>🏆I just graduated with a double major in Computer Science and Economics<br>👨‍💻I love developing web applications<br>✨I have done research in AI and implemented several LLMs in my projects<br>📈I am working on my AI practitioner certificate from AWS
+## Hi my name is Sahil<br><br>🏆I just graduated with a double major in Computer Science and Economics<br>👨‍💻I love developing web applications<br>✨I have done research in AI and implemented several LLMs in my projects<br>📈I am working on my AI practitioner certificate from AWS
 
 
 ## 🌐 Socials:
